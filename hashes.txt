@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce tormento de pasión, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Dulce tormento de pasión, Vol. 2** (dulce-tormento-de-pasion-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T03:57:45.372989 | `v1` | `b8ac4580a51c96542e609d80e991455da7ced8aa78bc5d56f1adbc289f6584bb` | `f6f9c4b58314a818d9505d4f71dc81b88aaaff49940f23126f819aca1dc038f2` | `2026-06-22_dulce-tormento-de-pasion-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

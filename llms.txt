@@ -1,4 +1,4 @@
-# Dulce tormento de pasión
+# Dulce tormento de pasión, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Dulce tormento de pasión |
+| **Title** | Dulce tormento de pasión, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-tormento-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Dulce tormento de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-tormento-de-pasion/) |
+| **Get License** | [Request Licensing for Dulce tormento de pasión, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-tormento-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dulce tormento que me quema por dentro
+> Tú me miras y se para de golpe el tiempo
+> Esta noche en Madrid bailamos sin miedo
+> Sabes que por ti yo me salto todo el juego
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `b8ac4580a51c96542e609d80e991455da7ced8aa78bc5d56f1adbc289f6584bb` |
+| **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

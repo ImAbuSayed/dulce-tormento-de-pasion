@@ -1,6 +1,6 @@
 # License
 
-**Dulce tormento de pasión**
+**Dulce tormento de pasión, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
